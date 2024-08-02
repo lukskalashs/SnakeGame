@@ -51,8 +51,8 @@ The main game window that handles user input, updates game state, and renders th
 - The game starts when any arrow key is pressed after the "PRESS ANY KEY TO START" message appears.
 
 ## Screenshots
+![Gameplay screenshot](GamePlay.png)
 
-_Insert screenshots of your game here._
 
 ## Contributing
 
