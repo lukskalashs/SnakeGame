@@ -58,12 +58,5 @@ The main game window that handles user input, updates game state, and renders th
 
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- This game was developed as a project for learning C# and game development with WPF.
-- Thanks to [SharpDevelop](https://www.icsharpcode.net/) for the code snippets used in this project.
 
