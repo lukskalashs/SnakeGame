@@ -13,7 +13,7 @@ This project implements a simple Snake game in C# using WPF (Windows Presentatio
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your/repository.git
+   git clone https://github.com/youUsername/SnakeGame.git
 
 2. Open the solution in Visual Studio.
 
